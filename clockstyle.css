@@ -1,0 +1,25 @@
+body{
+  background-image: url(bridge.jpg);
+  background-position: 100%;
+  background-size:cover;
+}
+h1{
+  color:#ff9500;
+}
+#clock {
+    font-size: 175px;
+    width: 85%;
+    margin: auto;
+    text-align: center;
+    border-radius: 20px;
+    overflow-x: auto;
+    color: orange;
+    text-shadow: 5px 2px 3px #ff7300db, 2px 4px 10px #ff9500;
+  }
+ .myname{
+  color: white;
+  margin-left: 92%;
+  margin-top: 23%;
+  font-size: 35px;
+  font-weight: bolder;
+ }
